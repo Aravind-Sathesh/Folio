@@ -1,0 +1,259 @@
+[
+  {
+    "file" : "INV-2026-0412.pdf",
+    "folder" : "Finance\/Invoices\/Work",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "statement_sep.pdf",
+    "folder" : "Finance\/Banking",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "lease_agreement_signed.pdf",
+    "folder" : "Housing\/Lease",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "tax_form_1099.pdf",
+    "folder" : "Finance\/Taxes",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "CN_lecture_07.pdf",
+    "folder" : "College\/Computer Networks",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "CN_assignment2.pdf",
+    "folder" : "College\/Computer Networks",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "DB_lecture_04.pdf",
+    "folder" : "College\/Databases",
+    "shouldQueue" : false
+  },
+  {
+    "acceptable" : [
+      "College\/Admin"
+    ],
+    "file" : "DB_syllabus.pdf",
+    "folder" : "College\/Databases",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "resume_2026_final.pdf",
+    "folder" : "Career\/Resume",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "electric_bill_oct.pdf",
+    "folder" : "Housing\/Utilities",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "enrollment_verification.pdf",
+    "folder" : "College\/Admin",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "service_agreement.pdf",
+    "folder" : "Work\/Contracts",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "receipt_cafe.png",
+    "folder" : "Finance\/Receipts",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "error_dialog.png",
+    "folder" : "Screenshots\/Errors",
+    "shouldQueue" : false
+  },
+  {
+    "acceptable" : [
+      "College\/Computer Networks"
+    ],
+    "file" : "slide_routing.png",
+    "folder" : "Reference\/Slides",
+    "shouldQueue" : false
+  },
+  {
+    "acceptable" : [
+      "Finance"
+    ],
+    "file" : "chart_q3_revenue.png",
+    "folder" : "Reference\/Charts",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "grocery_receipt.png",
+    "folder" : "Finance\/Receipts",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "terminal_error.png",
+    "folder" : "Screenshots\/Errors",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "photo_gradient.png",
+    "shouldQueue" : true
+  },
+  {
+    "file" : "photo_shapes.png",
+    "shouldQueue" : true
+  },
+  {
+    "file" : "meeting notes 10-12.md",
+    "folder" : "Work\/Meeting Notes",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "standup.txt",
+    "folder" : "Work\/Meeting Notes",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "client_kickoff_notes.txt",
+    "folder" : "Work\/Meeting Notes",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "pancakes.txt",
+    "folder" : "Personal\/Recipes",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "lentil_soup.md",
+    "folder" : "Personal\/Recipes",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "cover_letter_draft.txt",
+    "folder" : "Career\/Cover Letters",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "cover_letter_v2.md",
+    "folder" : "Career\/Cover Letters",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "deductions_2025.txt",
+    "folder" : "Finance\/Taxes",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "notes_cn.txt",
+    "folder" : "College\/Computer Networks",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "sql_practice.md",
+    "folder" : "College\/Databases",
+    "shouldQueue" : false
+  },
+  {
+    "acceptable" : [
+      "Finance\/Receipts"
+    ],
+    "file" : "rent_note.txt",
+    "folder" : "Housing\/Lease",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "transfer_confirmation.txt",
+    "folder" : "Finance\/Banking",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "invoice (3).pdf",
+    "folder" : "Finance\/Invoices\/Personal",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "Untitled.pdf",
+    "folder" : "College\/Databases",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "IMG_4821.png",
+    "folder" : "Finance\/Receipts",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "Screenshot 2026-10-02 at 10.14.33.png",
+    "folder" : "Screenshots\/Errors",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "download.pdf",
+    "folder" : "Housing\/Lease",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "scan0003.pdf",
+    "folder" : "Finance\/Banking",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "notes.txt",
+    "shouldQueue" : true
+  },
+  {
+    "file" : "new.txt",
+    "shouldQueue" : true
+  },
+  {
+    "file" : "todo.md",
+    "shouldQueue" : true
+  },
+  {
+    "file" : "temp.txt",
+    "shouldQueue" : true
+  },
+  {
+    "file" : "data.bin",
+    "shouldQueue" : true
+  },
+  {
+    "file" : "export.dat",
+    "shouldQueue" : true
+  },
+  {
+    "file" : "lumen_invoice_oct.pdf",
+    "folder" : "Finance\/Invoices\/Work",
+    "shouldQueue" : false
+  },
+  {
+    "acceptable" : [
+      "Housing\/Utilities"
+    ],
+    "file" : "lumen_invoice_home.pdf",
+    "folder" : "Finance\/Invoices\/Personal",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "orbit_labs_invoice_0933.pdf",
+    "folder" : "Finance\/Invoices\/Work",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "orbit_labs_contract.pdf",
+    "folder" : "Work\/Contracts",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "lakeview_cc_statement.pdf",
+    "folder" : "Finance\/Banking",
+    "shouldQueue" : false
+  },
+  {
+    "file" : "lakeview_1099_int.pdf",
+    "folder" : "Finance\/Taxes",
+    "shouldQueue" : false
+  }
+]

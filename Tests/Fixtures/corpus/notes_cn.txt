@@ -1,0 +1,3 @@
+TCP three-way handshake: SYN, SYN-ACK, ACK.
+Flow control uses the receive window.
+Congestion control uses the congestion window. Slow start doubles it every round trip.

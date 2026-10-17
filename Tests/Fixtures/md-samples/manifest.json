@@ -1,0 +1,252 @@
+[
+  {
+    "kind" : "text",
+    "note" : "ordinary note",
+    "path" : "plain.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "YAML front matter before content",
+    "path" : "frontmatter.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "Windows line endings",
+    "path" : "crlf.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "UTF-8 byte order mark",
+    "path" : "bom.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "UTF-16 LE with BOM",
+    "path" : "utf16.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "invalid UTF-8, valid Latin-1",
+    "path" : "latin1.md"
+  },
+  {
+    "kind" : "empty",
+    "note" : "only spaces, tabs and newlines",
+    "path" : "whitespace_only.md"
+  },
+  {
+    "kind" : "empty",
+    "note" : "zero bytes",
+    "path" : "empty.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "3 MB file; extraction must cap at 2000 chars",
+    "path" : "huge.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "100k characters, no newline",
+    "path" : "long_line.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "fenced code blocks",
+    "path" : "code_fence.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "markdown tables",
+    "path" : "table.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "raw HTML and script tags",
+    "path" : "html_in_md.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "emoji, CJK, right-to-left",
+    "path" : "multilingual.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "prompt injection in prose",
+    "path" : "injection_instructions.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "text that mimics the model's JSON answer",
+    "path" : "injection_json.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "NUL bytes inside text",
+    "path" : "nul_bytes.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "ANSI escape sequences",
+    "path" : "control_chars.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "fake credentials; never logged",
+    "path" : "secret_like.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "front matter and image links only",
+    "path" : "only_images.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "identical content to dup_b.md (hash cache)",
+    "path" : "dup_a.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "identical content to dup_a.md (hash cache)",
+    "path" : "dup_b.md"
+  },
+  {
+    "kind" : "binary",
+    "note" : "PNG header with .md extension",
+    "path" : "fake_image.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "no extension",
+    "path" : "README"
+  },
+  {
+    "kind" : "text",
+    "note" : "uppercase extension",
+    "path" : "UPPER.MD"
+  },
+  {
+    "kind" : "text",
+    "note" : "multiple dots",
+    "path" : "archive.tar.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "version number in name",
+    "path" : "v1.2.3 notes.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "runs of spaces",
+    "path" : "spaces  and   multiple.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "space before extension",
+    "path" : "trailing .md"
+  },
+  {
+    "kind" : "text",
+    "note" : "precomposed accent (NFC)",
+    "path" : "nfc-café.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "decomposed accent (NFD); APFS may treat as the same name",
+    "path" : "nfd-café.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "emoji in name",
+    "path" : "📄 emoji name.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "CJK name",
+    "path" : "会议记录.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "254-byte name (under the 255 limit)",
+    "path" : "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "multibyte name, 243 bytes",
+    "path" : "会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会会.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "colon in name",
+    "path" : "meeting: q3.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "newline in name",
+    "path" : "line\nbreak.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "leading dash",
+    "path" : "-leading-dash.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "right-to-left override in name",
+    "path" : "invoice‮fdp.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "trailing dot, no extension",
+    "path" : "ends-with-dot."
+  },
+  {
+    "kind" : "ignored",
+    "note" : "hidden file",
+    "path" : ".hidden.md"
+  },
+  {
+    "kind" : "ignored",
+    "note" : "Finder metadata",
+    "path" : ".DS_Store"
+  },
+  {
+    "kind" : "ignored",
+    "note" : "Chrome partial download",
+    "path" : "report.md.crdownload"
+  },
+  {
+    "kind" : "ignored",
+    "note" : "Firefox partial download",
+    "path" : "notes.md.part"
+  },
+  {
+    "kind" : "ignored",
+    "note" : "Safari partial download",
+    "path" : "movie.download"
+  },
+  {
+    "kind" : "ignored",
+    "note" : "iCloud placeholder",
+    "path" : ".remote.md.icloud"
+  },
+  {
+    "kind" : "directory",
+    "note" : "directory with an .md name",
+    "path" : "folder.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "nested two levels",
+    "path" : "sub\/deep\/nested.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "collides with b\/same.md at the destination",
+    "path" : "a\/same.md"
+  },
+  {
+    "kind" : "text",
+    "note" : "collides with a\/same.md at the destination",
+    "path" : "b\/same.md"
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Invoices\/Work",
+      "name" : "Cobalt Cloud Hosting Invoice 2026-09",
+      "reason" : "The invoice is for a business hosting service and is billed to Marlow Studio LLC."
+    },
+    "file" : "INV-2026-0412.pdf",
+    "seconds" : 19.38838303089142,
+    "textCharacters" : 187
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Banking",
+      "name" : "Lakeview Credit Union Statement 2026-09",
+      "reason" : "The file is a monthly bank statement for a credit union checking account."
+    },
+    "file" : "statement_sep.pdf",
+    "seconds" : 7.398388981819153,
+    "textCharacters" : 174
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Housing\/Lease",
+      "name" : "Residential Lease Agreement 2026-10",
+      "reason" : "The document is a signed residential lease agreement for an apartment."
+    },
+    "file" : "lease_agreement_signed.pdf",
+    "seconds" : 7.023560047149658,
+    "textCharacters" : 201
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Taxes",
+      "name" : "1099-NEC Tax Form 2025-01",
+      "reason" : "The document is a 1099-NEC tax form for nonemployee compensation."
+    },
+    "file" : "tax_form_1099.pdf",
+    "seconds" : 7.809226989746094,
+    "textCharacters" : 140
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "College\/Computer Networks",
+      "name" : "Routing Algorithms Lecture 2026-10",
+      "reason" : "The file content explicitly discusses computer networking topics like OSPF, RIP, and Dijkstra's."
+    },
+    "file" : "CN_lecture_07.pdf",
+    "seconds" : 7.905449986457825,
+    "textCharacters" : 208
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "College\/Computer Networks",
+      "name" : "TCP Congestion Control 2026-10",
+      "reason" : "The file is a computer networks assignment regarding TCP congestion control."
+    },
+    "file" : "CN_assignment2.pdf",
+    "seconds" : 7.113983988761902,
+    "textCharacters" : 234
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "College\/Databases",
+      "name" : "Database Systems Lecture 4 2026-10",
+      "reason" : "The file content explicitly discusses database normalization and functional dependencies."
+    },
+    "file" : "DB_lecture_04.pdf",
+    "seconds" : 6.9149169921875,
+    "textCharacters" : 159
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "College\/Databases",
+      "name" : "Database Systems Syllabus 2026-10",
+      "reason" : "The file is a syllabus for a college course specifically about database systems."
+    },
+    "file" : "DB_syllabus.pdf",
+    "seconds" : 7.381047964096069,
+    "textCharacters" : 181
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Career\/Resume",
+      "name" : "Sam Rivera Resume 2026-10",
+      "reason" : "The file is a resume for a software engineer."
+    },
+    "file" : "resume_2026_final.pdf",
+    "seconds" : 6.864382982254028,
+    "textCharacters" : 218
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Housing\/Utilities",
+      "name" : "Greenline Electric Bill 2026-10",
+      "reason" : "The file is a monthly electricity bill for a residential address."
+    },
+    "file" : "electric_bill_oct.pdf",
+    "seconds" : 7.314042091369629,
+    "textCharacters" : 162
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "College\/Admin",
+      "name" : "Enrollment Verification 2026-10",
+      "reason" : "The document is an official enrollment verification from a university registrar."
+    },
+    "file" : "enrollment_verification.pdf",
+    "seconds" : 6.891334056854248,
+    "textCharacters" : 147
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Work\/Contracts",
+      "name" : "Marlow Studio Service Agreement 2026-10",
+      "reason" : "The document is a freelance service agreement for a website redesign project."
+    },
+    "file" : "service_agreement.pdf",
+    "seconds" : 6.868185997009277,
+    "textCharacters" : 219
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Receipts",
+      "name" : "Corner Cafe 2026-10",
+      "reason" : "The file is a receipt for a cafe purchase."
+    },
+    "file" : "receipt_cafe.png",
+    "seconds" : 7.140995979309082,
+    "textCharacters" : 83
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Screenshots\/Errors",
+      "name" : "Database Connection Error 2026-10",
+      "reason" : "The file is a screenshot of a database connection error message."
+    },
+    "file" : "error_dialog.png",
+    "seconds" : 6.872326970100403,
+    "textCharacters" : 119
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "College\/Computer Networks",
+      "name" : "Link State Routing 2026-10",
+      "reason" : "The content describes Link State Routing and Dijkstra's algorithm, which are core networking topics."
+    },
+    "file" : "slide_routing.png",
+    "seconds" : 6.6958900690078735,
+    "textCharacters" : 106
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Reference\/Charts",
+      "name" : "Q3 Revenue Chart 2026-09",
+      "reason" : "The file is a revenue chart which fits perfectly in the Reference\/Charts folder."
+    },
+    "file" : "chart_q3_revenue.png",
+    "seconds" : 7.190008997917175,
+    "textCharacters" : 31
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Receipts",
+      "name" : "Fresh Basket Market 2026-09",
+      "reason" : "The file is a grocery receipt which belongs in the Receipts folder."
+    },
+    "file" : "grocery_receipt.png",
+    "seconds" : 7.124529957771301,
+    "textCharacters" : 80
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Screenshots\/Errors",
+      "name" : "Terminal Error 2026-10",
+      "reason" : "The file is a screenshot of a Python module error in the terminal."
+    },
+    "file" : "terminal_error.png",
+    "seconds" : 7.109205961227417,
+    "textCharacters" : 119
+  },
+  {
+    "answer" : {
+      "confidence" : 0.6,
+      "folder" : "Screenshots",
+      "name" : "Photo Gradient",
+      "reason" : "The file is an image of a gradient and fits best in the general Screenshots folder."
+    },
+    "file" : "photo_gradient.png",
+    "seconds" : 6.853135943412781,
+    "textCharacters" : 0
+  },
+  {
+    "answer" : {
+      "confidence" : 0.6,
+      "folder" : "Reference\/Charts",
+      "name" : "Photo Shapes",
+      "reason" : "The file name suggests a visual representation of shapes, fitting under Reference\/Charts."
+    },
+    "file" : "photo_shapes.png",
+    "seconds" : 7.048233985900879,
+    "textCharacters" : 0
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Work\/Meeting Notes",
+      "name" : "Orbit Labs Weekly Sync 2026-10",
+      "reason" : "The content is a record of a weekly sync meeting with Orbit Labs."
+    },
+    "file" : "meeting notes 10-12.md",
+    "seconds" : 7.351577043533325,
+    "textCharacters" : 163
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Work\/Meeting Notes",
+      "name" : "Standup 2026-10",
+      "reason" : "The content describes a daily standup meeting regarding project progress and blockers."
+    },
+    "file" : "standup.txt",
+    "seconds" : 7.142310976982117,
+    "textCharacters" : 130
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Work\/Meeting Notes",
+      "name" : "Birchwood Bakery Kickoff 2026-10",
+      "reason" : "The file contains notes from a kickoff call regarding a client project."
+    },
+    "file" : "client_kickoff_notes.txt",
+    "seconds" : 7.36942195892334,
+    "textCharacters" : 157
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Personal\/Recipes",
+      "name" : "Pancakes 2026-10",
+      "reason" : "The file contains a recipe for making pancakes."
+    },
+    "file" : "pancakes.txt",
+    "seconds" : 6.865113019943237,
+    "textCharacters" : 173
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Personal\/Recipes",
+      "name" : "Lentil Soup 2026-10",
+      "reason" : "The file contains a recipe for lentil soup."
+    },
+    "file" : "lentil_soup.md",
+    "seconds" : 6.879268050193787,
+    "textCharacters" : 161
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Career\/Cover Letters",
+      "name" : "Orbit Labs Cover Letter 2026-10",
+      "reason" : "The document is a cover letter for an iOS Engineer position."
+    },
+    "file" : "cover_letter_draft.txt",
+    "seconds" : 7.329113960266113,
+    "textCharacters" : 249
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Career\/Cover Letters",
+      "name" : "Cover Letter Tidewater Software 2026-10",
+      "reason" : "The content is a cover letter for a junior developer position."
+    },
+    "file" : "cover_letter_v2.md",
+    "seconds" : 6.874603033065796,
+    "textCharacters" : 222
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Taxes",
+      "name" : "Tax Deductions 2025",
+      "reason" : "The file contains specific tax deductions for home office, software, and mileage."
+    },
+    "file" : "deductions_2025.txt",
+    "seconds" : 6.966132998466492,
+    "textCharacters" : 164
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "College\/Computer Networks",
+      "name" : "TCP Handshake And Flow Control 2026-10",
+      "reason" : "The content describes TCP protocols and congestion control mechanisms."
+    },
+    "file" : "notes_cn.txt",
+    "seconds" : 7.789168953895569,
+    "textCharacters" : 168
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "College\/Databases",
+      "name" : "SQL Practice 2026-10",
+      "reason" : "The content is about SQL queries and database operations."
+    },
+    "file" : "sql_practice.md",
+    "seconds" : 6.866055965423584,
+    "textCharacters" : 154
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Housing\/Lease",
+      "name" : "Maple Court Rent Payment 2026-10",
+      "reason" : "The file contains a record of rent payment for a specific apartment."
+    },
+    "file" : "rent_note.txt",
+    "seconds" : 6.937443017959595,
+    "textCharacters" : 137
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Banking",
+      "name" : "Lakeview Credit Union Transfer 2026-10",
+      "reason" : "The file is a confirmation of a bank transfer between accounts."
+    },
+    "file" : "transfer_confirmation.txt",
+    "seconds" : 7.344696044921875,
+    "textCharacters" : 115
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Invoices\/Personal",
+      "name" : "Quillnote Pro Invoice 2026-09",
+      "reason" : "The document is a personal invoice for a Quillnote Pro subscription."
+    },
+    "file" : "invoice (3).pdf",
+    "seconds" : 7.807464003562927,
+    "textCharacters" : 135
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "College\/Databases",
+      "name" : "Database Systems Lecture 9 2026-10",
+      "reason" : "The content is a lecture note about database transactions and ACID properties."
+    },
+    "file" : "Untitled.pdf",
+    "seconds" : 7.046718955039978,
+    "textCharacters" : 148
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Receipts",
+      "name" : "Ironwood Hardware Receipt 2026-09",
+      "reason" : "The file contains a receipt for hardware items purchased at Ironwood Hardware."
+    },
+    "file" : "IMG_4821.png",
+    "seconds" : 8.008418917655945,
+    "textCharacters" : 99
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Screenshots\/Errors",
+      "name" : "Build Error Main View Swift 2026-10",
+      "reason" : "The file is a screenshot of a specific software build error."
+    },
+    "file" : "Screenshot 2026-10-02 at 10.14.33.png",
+    "seconds" : 8.511399984359741,
+    "textCharacters" : 102
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Housing\/Lease",
+      "name" : "Parking Addendum 2026-09",
+      "reason" : "The document is a parking addendum for a residential lease agreement."
+    },
+    "file" : "download.pdf",
+    "seconds" : 7.556684970855713,
+    "textCharacters" : 159
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Banking",
+      "name" : "Lakeview Credit Union Fee Schedule 2026-11",
+      "reason" : "The document is a notice regarding a credit union's fee schedule."
+    },
+    "file" : "scan0003.pdf",
+    "seconds" : 8.350569009780884,
+    "textCharacters" : 140
+  },
+  {
+    "answer" : {
+      "confidence" : 0.3,
+      "folder" : "Personal",
+      "name" : "Notes",
+      "reason" : "The file is empty, making it difficult to determine a specific category."
+    },
+    "file" : "notes.txt",
+    "seconds" : 7.065902948379517,
+    "textCharacters" : 0
+  },
+  {
+    "answer" : {
+      "confidence" : 0.1,
+      "folder" : "Personal",
+      "name" : "Unknown 2026-10",
+      "reason" : "The file content is insufficient to determine a specific category."
+    },
+    "file" : "new.txt",
+    "seconds" : 7.306450009346008,
+    "textCharacters" : 1
+  },
+  {
+    "answer" : {
+      "confidence" : 0.3,
+      "folder" : "Personal",
+      "name" : "To Do List",
+      "reason" : "The file content is empty, making it difficult to categorize specifically."
+    },
+    "file" : "todo.md",
+    "seconds" : 6.472385048866272,
+    "textCharacters" : 1
+  },
+  {
+    "answer" : {
+      "confidence" : 0.1,
+      "folder" : "Personal",
+      "name" : "Asdf",
+      "reason" : "The file content is nonsensical and provides no context for categorization."
+    },
+    "file" : "temp.txt",
+    "seconds" : 6.67162299156189,
+    "textCharacters" : 4
+  },
+  {
+    "answer" : {
+      "confidence" : 0.3,
+      "folder" : "Screenshots\/Errors",
+      "name" : "Data Bin",
+      "reason" : "The file is a binary archive with no readable content, making it difficult to categorize."
+    },
+    "file" : "data.bin",
+    "seconds" : 7.543683052062988,
+    "textCharacters" : 0
+  },
+  {
+    "answer" : {
+      "confidence" : 0.3,
+      "folder" : "Screenshots\/Errors",
+      "name" : "Export Data",
+      "reason" : "The file content is empty and the name is generic, making it difficult to categorize accurately."
+    },
+    "file" : "export.dat",
+    "seconds" : 6.550662994384766,
+    "textCharacters" : 0
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Invoices\/Work",
+      "name" : "Lumen Fiber Invoice 2026-10",
+      "reason" : "The invoice is for a business fiber service for Marlow Studio LLC."
+    },
+    "file" : "lumen_invoice_oct.pdf",
+    "seconds" : 7.426842093467712,
+    "textCharacters" : 121
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Invoices\/Personal",
+      "name" : "Lumen Fiber Invoice 2026-10",
+      "reason" : "The document is a residential fiber internet invoice for the user."
+    },
+    "file" : "lumen_invoice_home.pdf",
+    "seconds" : 7.81522798538208,
+    "textCharacters" : 125
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Invoices\/Work",
+      "name" : "Orbit Labs Invoice 2026-09",
+      "reason" : "The document is a work-related invoice from Marlow Studio LLC to Orbit Labs Inc."
+    },
+    "file" : "orbit_labs_invoice_0933.pdf",
+    "seconds" : 7.77552604675293,
+    "textCharacters" : 131
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Work\/Contracts",
+      "name" : "Orbit Labs Contractor Agreement 2026-10",
+      "reason" : "The document is a contractor agreement between Orbit Labs and Marlow Studio."
+    },
+    "file" : "orbit_labs_contract.pdf",
+    "seconds" : 7.731162071228027,
+    "textCharacters" : 201
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Receipts",
+      "name" : "Lakeview Credit Union Statement 2026-09",
+      "reason" : "The file is a credit card statement, which belongs in the Receipts folder."
+    },
+    "file" : "lakeview_cc_statement.pdf",
+    "seconds" : 7.940109014511108,
+    "textCharacters" : 147
+  },
+  {
+    "answer" : {
+      "confidence" : 1,
+      "folder" : "Finance\/Taxes",
+      "name" : "Lakeview Credit Union 1099-INT 2025-01",
+      "reason" : "The document is a 1099-INT tax form for interest income."
+    },
+    "file" : "lakeview_1099_int.pdf",
+    "seconds" : 8.089300036430359,
+    "textCharacters" : 118
+  }
+]

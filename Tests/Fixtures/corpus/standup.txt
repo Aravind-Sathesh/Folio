@@ -1,0 +1,4 @@
+Standup 2026-10-14
+Yesterday: finished the export screen
+Today: fix the login bug, review Priya's PR
+Blockers: waiting on API keys
